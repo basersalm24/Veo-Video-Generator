@@ -1,0 +1,5 @@
+{
+  "name": "Veo Video Generator",
+  "description": "A web application to generate videos from text prompts using Google's Veo model through the Gemini API. Users can input a prompt, a negative prompt, and select an aspect ratio to create video content.",
+  "requestFramePermissions": []
+}
